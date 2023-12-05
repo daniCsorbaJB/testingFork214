@@ -17,3 +17,9 @@ Something else.
 Pull req again.
 
 Another change
+
+Squash
+
+Another Squash
+
+Another suqash
