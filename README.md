@@ -24,7 +24,7 @@ Something.
 Something else.
 
 Pull req again.
-new line to test rebase
+new line to test rebase // thank you! :) 
 Another change
 
 adding new lines to test cherry pick
